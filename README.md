@@ -1,3 +1,5 @@
+![AI JKI and LabVIEW] (AI-JKI-LabVIEW.png)
+
 # NIWeek 2016 
 # [TS9758: Artificial Intelligence With LabVIEW: Deep Learning-Based Classification and Control] (http://forums.ni.com/t5/NIWeek-Session-Content/TS9758-Artificial-Intelligence-With-LabVIEW-Deep-Learning-Based/ta-p/3316028)
 
